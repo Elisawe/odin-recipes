@@ -1,3 +1,3 @@
 # odin-recipes
-I am about to start my first project, odin-recipes.
-I am planning to streighten my skills in git, html and after that introduce some css.
+My first project - Odin Recipes.
+I strenghtened my skills learnt in the first section of The Odin Project: basic html (links, images, lists), basic git functions, github.
